@@ -16,7 +16,7 @@ public class DLL {
         Scanner sc=new Scanner(System.in);
 
         while(true){
-            int a=sc.nextInt();
+            int a=sc.nextInt();  
             if(a==-1){
                 break;
             }

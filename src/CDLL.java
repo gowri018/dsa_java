@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 class CNode{
     int data;
-    CNode prev;
+    CNode prev;   
     CNode next;
 
     CNode(int data){

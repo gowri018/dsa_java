@@ -24,7 +24,7 @@ public class CustomPriority {
                     return s1.name.compareTo(s2.name);
                 return s1.roll - s2.roll;
             }
-        );
+        );   
         
         pqc.offer(new Student(2001, "qwerty", 8.35f));
         pqc.offer(new Student(2004, "uiop", 7.5f));
