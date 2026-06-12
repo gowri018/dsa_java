@@ -23,7 +23,7 @@ public class Stack {
             choice=sc.nextInt();
             if(choice==-1){
                 break;
-            }
+            }    
 
             switch(choice){
                 case 1:
