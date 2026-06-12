@@ -20,6 +20,6 @@ public class Pattern01 {
             pat.add( org + "0");
             pat.add(org + "1");
         }
-    }
+    }   
 
 }

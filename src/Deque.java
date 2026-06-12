@@ -6,7 +6,7 @@ class DQNode{
 
     DQNode(int data){
         this.data=data;
-    }
+    }  
 }
 public class Deque {
     public static DQNode front=null, rear=null;

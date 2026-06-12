@@ -21,7 +21,7 @@ class minheap
     public int right(int ind)
     {
         return ind*2+2;
-    }
+    }   
 
     public void swap(int ind1,int ind2)
     {

@@ -16,7 +16,7 @@ public class PriorityQueueCollec {
         pq.offer(72);
         pq.offer(45);
         
-
+   
         while (!pq.isEmpty()) {
             System.out.print(pq.poll()+" ");
         }
