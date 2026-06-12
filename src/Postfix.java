@@ -21,7 +21,7 @@ public class Postfix {
         else
             return 0;
     }
-
+  
     public static String postfix(String exp){
 
         Stack<Character> stk= new Stack<>();
