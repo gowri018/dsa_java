@@ -64,7 +64,7 @@ public class Binary_tree_implementation {
             if(cur.left == null)
             {
                 cur.left = create_node(val);
-                return;
+                return;  
             }
             else que.offer(cur.left);
 

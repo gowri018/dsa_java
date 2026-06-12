@@ -19,7 +19,7 @@ public class BinaryTree {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        while (true) {
+        while (true) {  
             int a = sc.nextInt();
             if(a==-1)
                 break;

@@ -73,7 +73,7 @@ public class BST_implementation {
             Node successor = nextNode(node.right);
             node.data = successor.data;
             delete_key(node.right, successor.data);
-        }
+        }  
         return node;
 
     }

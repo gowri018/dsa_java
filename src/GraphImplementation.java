@@ -66,7 +66,7 @@ class Graph {
             for (Edge edge : cur) {
                 System.out.print((char) (edge.dest + 65) + "-->");
             }
-            
+              
             System.out.println();
         }
     }
